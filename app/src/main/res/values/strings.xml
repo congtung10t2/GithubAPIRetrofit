@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleAndroidApplication</string>
+    <string name="warning">Warning</string>
+    <string name="wrong_formated">Oops! something wrong</string>
+    <string name="sync">sync</string>
+    <string name="data_null">Data null</string>
+    <string name="data_load_failed">Resources load failed</string>
+</resources>
